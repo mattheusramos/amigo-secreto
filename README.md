@@ -21,6 +21,6 @@ Clique em "Reiniciar" para limpar a lista e começar um novo sorteio.
 Como Utilizar: 
 Clone este repositório em sua máquina local.
 Abra o arquivo index.html em um navegador web moderno.
-Digite o nome de um amigo, clique em "Adicionar" e repita conforme necessário.
+Digite o nome de um amigo, clique em "Adicionar"
 Clique em "Sortear" para realizar o sorteio e em "Reiniciar" para iniciar um novo sorteio.
 Divirta-se organizando seus sorteios de Amigo Secreto!
