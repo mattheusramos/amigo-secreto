@@ -1,7 +1,7 @@
 Bem-vindo ao Amigo Secreto! Este projeto web simplifica a organização de sorteios de Amigo Secreto, permitindo a adição de amigos, o sorteio e a reinicialização para novos sorteios.
 
 Link para acessar a Página do Projeto: 
-https://carrinho-compras-roan.vercel.app/
+https://amigo-secreto-henna.vercel.app/
 
 Funcionalidades Principais: 
 Adição de Amigos: Insira os nomes dos amigos para participar do sorteio.
